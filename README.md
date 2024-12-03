@@ -1,2 +1,2 @@
 # K-means
-Projeto para atividade final do CEPED
+Projeto para atividade final do CEPEDI. 
